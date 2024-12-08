@@ -850,8 +850,8 @@ html {
 }
 
 .professional_section .img-box img {
-  height: 30%; /* Set the height to 50% */
-  width: 50%; /* Maintain aspect ratio */
+  height: auto; /* Set the height to 50% */
+  width: auto; /* Maintain aspect ratio */
 }
 
 @media (max-width: 768px) {
