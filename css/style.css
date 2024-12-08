@@ -853,5 +853,9 @@ html {
   height: 30%; /* Set the height to 50% */
   width: 50%; /* Maintain aspect ratio */
 }
+
+.img-box img {
+  display: none; /* Hides the image */
+}
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
