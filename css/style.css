@@ -849,10 +849,10 @@ html {
   height: 100%; /* Ensure the container takes up space for vertical alignment */
 }
 
-/* .professional_section .img-box img {
+.professional_section .img-box img {
   height: 30%; /* Set the height to 50% */
   width: 50%; /* Maintain aspect ratio */
-} */
+}
 
 @media (max-width: 768px) {
   .img-box img {
