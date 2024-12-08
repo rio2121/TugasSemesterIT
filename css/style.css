@@ -854,8 +854,10 @@ html {
   width: 50%; /* Maintain aspect ratio */
 }
 
-.img-box img {
-  display: none; /* Hides the image */
+@media (max-width: 768px) {
+  .img-box img {
+    display: none;
+  }
 }
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
