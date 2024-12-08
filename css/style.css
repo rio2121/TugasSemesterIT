@@ -854,10 +854,10 @@ html {
   width: auto; /* Maintain aspect ratio */
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .img-box img {
     display: none;
   }
-}
+} */
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
