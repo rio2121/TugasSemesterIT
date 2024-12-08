@@ -851,7 +851,7 @@ html {
 
 .professional_section .img-box img {
   height: 50%; /* Set the height to 50% */
-  width: auto; /* Maintain aspect ratio */
+  width: 30%; /* Maintain aspect ratio */
 }
 
 /* @media (max-width: 768px) {
